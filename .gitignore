@@ -1,0 +1,9 @@
+**/node_modules/
+**/.next/
+**/*.tsbuildinfo
+**/.env*
+!**/.env.example
+.DS_Store
+content/previews/desktop-*.png
+content/previews/first-screen-*.png
+content/previews/form-mobile.png
